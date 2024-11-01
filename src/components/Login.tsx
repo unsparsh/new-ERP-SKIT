@@ -37,7 +37,7 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
       <div className="bg-white rounded-xl shadow-xl p-8 w-full max-w-md">
         <div className="flex flex-col items-center mb-8">
           <img
-            src="https://www.skit.ac.in/images/SKIT_Logo.jpg"
+            src="https://www.skit.ac.in/images/headers/skit_logo.png"
             alt="SKIT Logo"
             className="h-20 w-20"
           />
